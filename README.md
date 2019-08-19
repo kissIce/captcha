@@ -12,7 +12,7 @@ Swoft Captcha Component
 - composer command
 
 ```bash
-composer require swoft/captcha
+composer require angellce/captcha
 ```
 
 ## Resources
