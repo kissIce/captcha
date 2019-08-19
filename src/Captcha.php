@@ -6,13 +6,13 @@
  * Time: 下午5:23
  */
 
-namespace Swoft\Captcha;
+namespace Angellce\Captcha;
 
 /**
  * 验证码生成类
  * Class Result
  * @author : Ice <709896100@qq.com>
- * @package Swoft\Captcha
+ * @package Angellce\Captcha
  */
 class Captcha
 {
