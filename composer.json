@@ -1,0 +1,27 @@
+{
+    "name": "swoft/captcha",
+    "type": "library",
+    "version": "v2.0.5",
+    "keywords": [
+        "php",
+        "swoole",
+        "swoft"
+    ],
+    "description": "Swoft Captcha component",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "angellce",
+            "email": "709896100@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Swoft\\Captcha\\": "src/"
+        }
+    }
+}
